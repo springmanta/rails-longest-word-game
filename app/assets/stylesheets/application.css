@@ -13,3 +13,14 @@
  *= require_tree .
  *= require_self
  */
+
+.letter {
+  background-color:darkcyan;
+  color:antiquewhite;
+  padding: 2%;
+  border-color: aliceblue;
+  margin: 5px;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: bold;
+  box-shadow: 3px 3px 1px grey;
+}
